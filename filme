@@ -1,0 +1,151 @@
+<li>
+          <a onclick="getData('417')" data-CategoryID="417"  data-pcon="0" class="active onloadCallCategory">
+            Filme Romantice (NOU)          </a>
+      </li>
+          <li>
+          <a onclick="getData('239')" data-CategoryID="239"  data-pcon="0" class="">
+            Filme 2021          </a>
+      </li>
+          <li>
+          <a onclick="getData('243')" data-CategoryID="243"  data-pcon="0" class="">
+            Robert De Niro          </a>
+      </li>
+          <li>
+          <a onclick="getData('253')" data-CategoryID="253"  data-pcon="0" class="">
+            Filme Dragoste          </a>
+      </li>
+          <li>
+          <a onclick="getData('395')" data-CategoryID="395"  data-pcon="0" class="">
+            Seria Lord of the rings          </a>
+      </li>
+          <li>
+          <a onclick="getData('396')" data-CategoryID="396"  data-pcon="0" class="">
+            Seria Harry Potter          </a>
+      </li>
+          <li>
+          <a onclick="getData('407')" data-CategoryID="407"  data-pcon="0" class="">
+            Filme Actiune (NOU)          </a>
+      </li>
+          <li>
+          <a onclick="getData('408')" data-CategoryID="408"  data-pcon="0" class="">
+            Filme Drama (NOU)          </a>
+      </li>
+          <li>
+          <a onclick="getData('411')" data-CategoryID="411"  data-pcon="0" class="">
+            Filme Razboi (NOU)          </a>
+      </li>
+          <li>
+          <a onclick="getData('415')" data-CategoryID="415"  data-pcon="0" class="">
+            Filme Aventura (NOU)          </a>
+      </li>
+          <li>
+          <a onclick="getData('418')" data-CategoryID="418"  data-pcon="0" class="">
+            Filme Thriller (NOU)          </a>
+      </li>
+          <li>
+          <a onclick="getData('419')" data-CategoryID="419"  data-pcon="0" class="">
+            Filme Comedie (NOU)          </a>
+      </li>
+          <li>
+          <a onclick="getData('420')" data-CategoryID="420"  data-pcon="0" class="">
+            Filme Animatie (NOU)          </a>
+      </li>
+          <li>
+          <a onclick="getData('423')" data-CategoryID="423"  data-pcon="0" class="">
+            Filme 2021 (NOU)          </a>
+      </li>
+          <li>
+          <a onclick="getData('426')" data-CategoryID="426"  data-pcon="0" class="">
+            Filme dublate in Romana (NOU)          </a>
+      </li>
+          <li>
+          <a onclick="getData('427')" data-CategoryID="427"  data-pcon="0" class="">
+            Documentare (NOU)          </a>
+      </li>
+          <li>
+          <a onclick="getData('430')" data-CategoryID="430"  data-pcon="0" class="">
+            Filme Horror (NOU)          </a>
+      </li>
+          <li>
+          <a onclick="getData('431')" data-CategoryID="431"  data-pcon="0" class="">
+            Filme SCI-FI (NOU)          </a>
+      </li>
+          <li>
+          <a onclick="getData('35')" data-CategoryID="35"  data-pcon="0" class="">
+            Filme Comedie          </a>
+      </li>
+          <li>
+          <a onclick="getData('38')" data-CategoryID="38"  data-pcon="0" class="">
+            Filme UHD + 4K          </a>
+      </li>
+          <li>
+          <a onclick="getData('197')" data-CategoryID="197"  data-pcon="0" class="">
+            Filme 2020          </a>
+      </li>
+          <li>
+          <a onclick="getData('108')" data-CategoryID="108"  data-pcon="0" class="">
+            Filme Drama          </a>
+      </li>
+          <li>
+          <a onclick="getData('109')" data-CategoryID="109"  data-pcon="0" class="">
+            Filme Karate          </a>
+      </li>
+          <li>
+          <a onclick="getData('114')" data-CategoryID="114"  data-pcon="0" class="">
+            Filme Thriller          </a>
+      </li>
+          <li>
+          <a onclick="getData('120')" data-CategoryID="120"  data-pcon="0" class="">
+            Filme Horror          </a>
+      </li>
+          <li>
+          <a onclick="getData('121')" data-CategoryID="121"  data-pcon="0" class="">
+            Filme Indiene          </a>
+      </li>
+          <li>
+          <a onclick="getData('122')" data-CategoryID="122"  data-pcon="0" class="">
+            Filme Animatie Subtitrate          </a>
+      </li>
+          <li>
+          <a onclick="getData('142')" data-CategoryID="142"  data-pcon="0" class="">
+            Filme Istorice          </a>
+      </li>
+          <li>
+          <a onclick="getData('158')" data-CategoryID="158"  data-pcon="0" class="">
+            Filme Actiune          </a>
+      </li>
+          <li>
+          <a onclick="getData('196')" data-CategoryID="196"  data-pcon="0" class="">
+            Filme Animatie Dublat          </a>
+      </li>
+          <li>
+          <a onclick="getData('198')" data-CategoryID="198"  data-pcon="0" class="">
+            Filme SCI-FI          </a>
+      </li>
+          <li>
+          <a onclick="getData('201')" data-CategoryID="201"  data-pcon="0" class="">
+            Filme Romanesti          </a>
+      </li>
+          <li>
+          <a onclick="getData('202')" data-CategoryID="202"  data-pcon="0" class="">
+            Documentare          </a>
+      </li>
+          <li>
+          <a onclick="getData('203')" data-CategoryID="203"  data-pcon="0" class="">
+            Filme Adult          </a>
+      </li>
+          <li>
+          <a onclick="getData('234')" data-CategoryID="234"  data-pcon="0" class="">
+            Filme de Craciun          </a>
+      </li>
+          <li>
+          <a onclick="getData('208')" data-CategoryID="208"  data-pcon="0" class="">
+            Filme Mindblow / Psihologice          </a>
+      </li>
+          <li>
+          <a onclick="getData('207')" data-CategoryID="207"  data-pcon="0" class="">
+            Filme Aventura          </a>
+      </li>
+          <li>
+          <a onclick="getData('205')" data-CategoryID="205"  data-pcon="0" class="">
+            Filme Western          </a>
